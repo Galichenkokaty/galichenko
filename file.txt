@@ -1,2 +1,4 @@
 жили-были на свете три разработчика.
-И звали их:First Developer,Mr.Second Developer u Third Developer.
+<<<<<<< HEAD
+И звали их: Mr.First Developer,Mr.Second Developer u Third Developer.
+=======
